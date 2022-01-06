@@ -32,6 +32,7 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a analizis
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 ***CAPITULO N° 9***
+
 Martin 9
 
 
