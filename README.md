@@ -1,4 +1,37 @@
 # INFORME TAREA 5
+
+**UNIVERSIDAD DE LAS FUERZAS ARMADAS**
+
+**DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
+
+**FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
+
+**Nombres:** Martin Coronel, Jefferson Chicaiza, Tito Obando 
+
+**Carrera:** Electrónica y Automatizacion 
+
+**NRC:** 10133
+
+**1. OBJETIVOS**
+
+*1.1 Objetivo General:* 
+
+Entender de forma precisa los conceptos básicos en lo que se refiere a analizis de ramas, nodos, lazos y a lo que se refiere ha magnetismo y electromagnetismio mediate una lectura profunda del texto guia para aplicar en los ejercicios  propuestos.  
+
+*1.2 Objetivos Especificos*
+
+1. Comprender la teoria de los elementos de los cicuitos como ramas, nodos, lazos.
+2. Enteder la teoria ha magnetismo y electromagnetismio 
+3. Resumir mediante mapas conceptuales todos conceptos que se abarcan analizis de ramas, nodos, lazos y ha magnetismo y electromagnetismio
+4. Aplicar la teoria en los ejercicios Propuestos.
+
+**2.MARCO TEORICO(RESUMEN)**
+![image](https://user-images.githubusercontent.com/94098157/148387188-139bce09-fa48-4330-9d3f-1312c43ffdd1.png)
+![image](https://user-images.githubusercontent.com/94098157/148387232-a60e940e-54dd-4347-af88-c2d4e3744973.png)
+
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+***CAPITULO N° 9***
 Martin 9
 
 
@@ -34,8 +67,7 @@ de la corriente.
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
 
-
-Jefferson 10
+***CAPITULO N° 10***
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
@@ -94,3 +126,10 @@ En donde Φm es el flujo del campo magnético. Por tanto, para que aparezca una 
 
 Se deduce que hay tres formas de variar el flujo del campo magnético: variar el módulo del campo, la superficie que lo atraviesa o el ángulo que forman ambos.
 
+**3.VIDEO**
+
+**4.CONCLUSIONES**
+
+**5.BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
