@@ -48,3 +48,10 @@ Capitulo 10
 19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
 
 21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+la ley de Faraday de una forma sencilla, pero que al
+mismo tiempo captara la atención de los alumnos. Es por eso que este informe va a tener como
+objetivo central la demostración de esta ley. Al mismo tiempo, también se demostrará que las
+corrientes eléctricas generan campos magnéticos, fenómeno descubierto por Hans Oersted, y que se
+oponen al cambio, en este caso, del flujo magnético, viéndose sus efectos, comprobando de esta
+manera la Ley de Lenz.
