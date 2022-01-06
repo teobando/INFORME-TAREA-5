@@ -24,10 +24,12 @@ Tito 10
 27.¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
 de la corriente.
 ![image](https://user-images.githubusercontent.com/94098157/148320593-0e125181-325c-41bf-8c7e-93e5d30ef72e.png)
-![image](https://user-images.githubusercontent.com/94098157/148320769-52416ec3-7291-4125-8ebe-94198563724b.png)
+![image](https://user-images.githubusercontent.com/94098157/148374131-3fad9c26-f11c-4bf8-b3ae-d242b682146e.png)
 
 29.Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura
 9-33.
+![image](https://user-images.githubusercontent.com/94098157/148374235-44f2cc70-62ab-4108-b46d-67d3c8f27f75.png)
+![image](https://user-images.githubusercontent.com/94098157/148374283-28f0df2b-d874-4b53-a243-bf6f0cd8b873.png)
 
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
