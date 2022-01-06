@@ -10,48 +10,27 @@ Tito 10
 ![image](https://user-images.githubusercontent.com/94098157/148310249-466fe389-eeeb-460a-b64e-74f3ff671dd4.png)
 
 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
+![image](https://user-images.githubusercontent.com/94098157/148313700-f92f7914-954c-4180-b961-54cb977ff5e7.png)
+![image](https://user-images.githubusercontent.com/94098157/148313745-b7c5b087-a16a-4e0f-945d-403ba902cbff.png)
 
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+![image](https://user-images.githubusercontent.com/94098157/148315831-42439fe9-7496-4779-9f7f-735b9bb21f3e.png)
+![image](https://user-images.githubusercontent.com/94098157/148317286-fd5e7eea-a8f8-45da-853c-8e284d649197.png)
+
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+![image](https://user-images.githubusercontent.com/94098157/148318449-d34ee840-cd19-48ee-9291-127c8a718653.png)
+![image](https://user-images.githubusercontent.com/94098157/148319855-d9d9401a-abe3-409b-a4cb-d8e11b8b5afb.png)
+
 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
 de la corriente.
+![image](https://user-images.githubusercontent.com/94098157/148320593-0e125181-325c-41bf-8c7e-93e5d30ef72e.png)
+![image](https://user-images.githubusercontent.com/94098157/148320769-52416ec3-7291-4125-8ebe-94198563724b.png)
+
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura
 9-33.
+
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
 
-Capitulo 10
 
-1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
-
-
-3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500   106 T y el área de sección transversal mide 150 cm2?
-
-5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
-
-7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750   106 Wb/At·m?
-
-9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
-
-11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
-
-13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexión cuando circula corriente a través de la bobina?
-
-15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
-
-![image](https://user-images.githubusercontent.com/84757114/148317567-bc5bae35-c54b-42a4-a735-80a1566023d4.png)
-
-17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
- 
- ![image](https://user-images.githubusercontent.com/84757114/148317682-6ab45d01-775b-4374-a3d1-4505385df1b7.png)
- 
-19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
-
-21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
-
-la ley de Faraday de una forma sencilla, pero que al
-mismo tiempo captara la atención de los alumnos. Es por eso que este informe va a tener como
-objetivo central la demostración de esta ley. Al mismo tiempo, también se demostrará que las
-corrientes eléctricas generan campos magnéticos, fenómeno descubierto por Hans Oersted, y que se
-oponen al cambio, en este caso, del flujo magnético, viéndose sus efectos, comprobando de esta
-manera la Ley de Lenz.
+Jefferson 10
