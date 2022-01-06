@@ -20,5 +20,31 @@ de la corriente.
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
 
+Capitulo 10
 
-Jefferson 10
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+
+
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500   106 T y el área de sección transversal mide 150 cm2?
+
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
+
+7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750   106 Wb/At·m?
+
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+
+13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexión cuando circula corriente a través de la bobina?
+
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
+
+![image](https://user-images.githubusercontent.com/84757114/148317567-bc5bae35-c54b-42a4-a735-80a1566023d4.png)
+
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+ 
+ ![image](https://user-images.githubusercontent.com/84757114/148317682-6ab45d01-775b-4374-a3d1-4505385df1b7.png)
+ 
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
