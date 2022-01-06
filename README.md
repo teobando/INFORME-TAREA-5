@@ -86,9 +86,9 @@ Se deduce que hay tres formas de variar el flujo del campo magnético: variar el
 
 La ley que explica esta interacción entre la fuerza electromotriz inducida y el campo magnético es la Ley de Faraday
    
-   ![image](https://user-images.githubusercontent.com/84757114/148376343-64b0225c-3272-43f4-bfe0-175046d69ead.png)
+                              ![image](https://user-images.githubusercontent.com/84757114/148376343-64b0225c-3272-43f4-bfe0-175046d69ead.png)
 
 En donde Φm es el flujo del campo magnético. Por tanto, para que aparezca una fuerza electromotriz (fem) inducida debe variar el flujo del campo magnético a través de la superficie delimitada por el conductor. De la definición de flujo:
 
-se deduce que hay tres formas de variar el flujo del campo magnético: variar el módulo del campo, la superficie que lo atraviesa o el ángulo que forman ambos.
+Se deduce que hay tres formas de variar el flujo del campo magnético: variar el módulo del campo, la superficie que lo atraviesa o el ángulo que forman ambos.
 
