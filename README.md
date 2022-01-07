@@ -35,6 +35,92 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a analizis
 
 Martin 9
 
+Ecuaciones simultáneas en el análisis de circuitos
+1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
+75I1 + 90I2 = 15  -ec1
+100I1 + 50I2 = 30  -ec2
+
+75I1 = 15 – 90I2
+I1 = (15 – 90I2)/75
+Reemplazo I1 en ec2
+100((15 – 90I2)/75) + 50I2 = 30  
+4(5-30I2) + 50I2 = 30
+20-120I2 + 50I2 = 30
+-70I2 = 10
+I2 = 0.143 A = 143 mA
+Reemplazo I2 en ec1
+75I1 + 90(-0.143) = 15
+75I1 – 12.87 = 15
+75I1 = 27.87
+I1 = 0.371 A = 371 mA  
+
+
+3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+-I1 + 2I2 = 4
+7I1 + 3I2 = 6
+
+![image](https://user-images.githubusercontent.com/94182617/148566845-80dfd32b-3b0b-4d3b-a84f-9e2ad6a3ab8b.png)
+
+5. Evalúe cada uno de los determinantes:
+
+![image](https://user-images.githubusercontent.com/94182617/148566983-dc2be276-66ce-438e-971e-f2da15fa54ae.png)
+
+![image](https://user-images.githubusercontent.com/94182617/148567056-c53ba447-5eb6-4133-ac9d-a0ce16a82c4a.png)
+
+7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
+2I1 - 6I2 + 10I3 = 9
+3I1 + 7I2 - 8I3 = 3
+10I1 + 5I2 - 12I3 = 0
+
+![image](https://user-images.githubusercontent.com/94182617/148567310-58f0e341-58ed-4454-b137-152a71a535b3.png)
+![image](https://user-images.githubusercontent.com/94182617/148567350-04e76ff5-0fc9-479d-af04-82ba394605a3.png)
+
+9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+100I1 + 50I2 = 30
+75I1 + 90I2 = 15
+
+![image](https://user-images.githubusercontent.com/94182617/148567441-b631c6a2-c9a7-4953-8f29-1f444a877275.png)
+![image](https://user-images.githubusercontent.com/94182617/148567451-64330395-636c-4dfe-8462-b2c5449bbc05.png)
+
+Método de la corriente en ramas
+11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/148567506-1a36ce0e-5265-4f52-bd1d-c7f18b50bb2b.png)
+
+Nodo A:
+Ecuación => I1 – I2 – I3 = 0
+La suma de las corrientes que entran al nodo es igual a cero.
+
+![image](https://user-images.githubusercontent.com/94182617/148567891-178d2984-edb7-4ab1-9fcd-b938a8629e7c.png)
+![image](https://user-images.githubusercontent.com/94182617/148567939-a09e2f10-822f-4b4e-958c-c5cfc9f7af0c.png)
+![image](https://user-images.githubusercontent.com/94182617/148567977-8ec04728-fa6e-4f2c-9690-b04921c0b2a9.png)
+
+15. En la figura, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
+
+![image](https://user-images.githubusercontent.com/94182617/148568019-f5835273-4d3e-4f22-8f31-64c1f55ed6f8.png)
+
+VAB = V2 = (R2/(R1+R2))Vs
+VAB = (100/147)12
+VAB = 8.16V
+
+VAB = V3 = I3 * R3 = (100)(68) = 6.8V
+
+I2 = (R1/(R1 + R2))Is
+I2 = (47/147)100
+I2 = 31.97 mA
+
+VAG = V2 = -(31.97mA)(100) = -3.197
+VAB = VAG - VBG = -3.197 - 6.8 = -9.997 V
+
+VAB = 8.16 + (-9.997) = -1.87 V
+
+Método de la corriente en lazos
+17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/148569239-ceaa8c0f-7335-41de-8fc7-673f4875a7aa.png)
+
+![image](https://user-images.githubusercontent.com/94182617/148569343-e0a14da1-b467-4016-aecd-b626fddd3cc3.png)
+
 
 Tito 10 
 
