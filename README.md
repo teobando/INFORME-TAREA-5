@@ -67,6 +67,8 @@ de la corriente.
 
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
+![image](https://user-images.githubusercontent.com/94098157/148552650-bdef12a7-2f12-4b99-ad03-eb121a2ed3ad.png)
+![image](https://user-images.githubusercontent.com/94098157/148555620-6c723055-0211-49d5-89ce-6fdbd9291480.png)
 
 ***CAPITULO N° 10***
 
