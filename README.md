@@ -67,6 +67,7 @@ de la corriente.
 
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
+
 ![image](https://user-images.githubusercontent.com/94098157/148552650-bdef12a7-2f12-4b99-ad03-eb121a2ed3ad.png)
 ![image](https://user-images.githubusercontent.com/94098157/148555620-6c723055-0211-49d5-89ce-6fdbd9291480.png)
 
@@ -132,6 +133,11 @@ Se deduce que hay tres formas de variar el flujo del campo magnético: variar el
 **3.VIDEO**
 
 **4.CONCLUSIONES**
+
+1. Comprender la teoria es la base para aplicar los conceptos en la resolución de problemas, especialmente en el funcionamiento de los circuitos en serie y paralelo esto es muy importante dado que el analisis de ramas, nodos, lazos funiconan en base s alo mencioando. 
+2. Los conceptos de analizis de ramas, nodos y lazos permiten calcular voltaje, corriente y resistencia de cualquier parte del circuito.
+3. El analisis de ramas, nodos y lazos permiten calcular de forma precisa la corriente y voltaje de mallas y nodos.
+4. En cuanto al electronmagnetismo cocimos la gran relacion entre el campó magnetico y electrico. 
 
 **5.BIBLIOGRAFÍA**
 
