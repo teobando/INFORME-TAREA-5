@@ -214,6 +214,8 @@ Se deduce que hay tres formas de variar el flujo del campo magnético: variar el
 
 **3.VIDEO**
 
+https://www.youtube.com/watch?v=j1JmKSlBpy0
+
 **4.CONCLUSIONES**
 
 1. Comprender la teoria es la base para aplicar los conceptos en la resolución de problemas, especialmente en el funcionamiento de los circuitos en serie y paralelo esto es muy importante dado que el analisis de ramas, nodos, lazos funiconan en base s alo mencioando. 
