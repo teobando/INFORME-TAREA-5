@@ -33,8 +33,6 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a analizis
 
 ***CAPITULO N° 9***
 
-Martin 9
-
 Ecuaciones simultáneas en el análisis de circuitos
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
 75I1 + 90I2 = 15  -ec1
@@ -121,8 +119,6 @@ Método de la corriente en lazos
 
 ![image](https://user-images.githubusercontent.com/94182617/148569343-e0a14da1-b467-4016-aecd-b626fddd3cc3.png)
 
-
-Tito 10 
 
 19.Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura
 9-28.
