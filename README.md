@@ -8,7 +8,7 @@
 
 **Nombres:** Martin Coronel, Jefferson Chicaiza, Tito Obando 
 
-**Carrera:** Electrónica y Automatizacion 
+**Carrera:** Electrónica y Automatización 
 
 **NRC:** 10133
 
